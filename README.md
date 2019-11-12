@@ -95,7 +95,8 @@
     我们都热烈欢迎你的加入。
     <br> 这里有舒适的学习环境，全备的电子元件，丰富的专业书籍，人性化的团队管理……
     <br> 现在加入群聊952067736</p>
-  <img src="images/image.png" alt="My test image">
+
 </body>
 
 </html>
+
